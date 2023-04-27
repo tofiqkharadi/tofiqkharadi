@@ -11,7 +11,7 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
   💼 Do reach [email](mailto:tofiqkharadi@gmail.com). tofiqkharadi@gmail.com <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
-  👨‍💻 Checkout my [Portfolio](https://----------/) & [my linkedin profile](https://www.linkedin.com/in/taufiq-kharadi/) <br/>
+  👨‍💻 Checkout my [Portfolio](https://tofiqkharadi.github.io/) & [my linkedin profile](https://www.linkedin.com/in/taufiq-kharadi/) <br/>
   
 
 
